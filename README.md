@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aruns200108
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning MEARN Stack
+- 🌱 MEARN Stack Developer
 
 
 <!---
